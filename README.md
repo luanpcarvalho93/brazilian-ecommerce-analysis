@@ -4,8 +4,21 @@ This project is available in English and Portuguese (PT-BR).
 ## Dashboard
 [View Power BI Dashboard] (https://drive.google.com/file/d/1-Kqdu2K0u0bYcV10CM0e09RXZyXptowS/view?usp=sharing)
 
+## Key Business Questions
+- How is e-commerce growing over time?
+- When do customers buy the most?
+- How efficient is the delivery process?
+- What is the revenue trend?
+- 
 ## Project Overview
 This project analyzes Brazilian e-commerce data using Python.
+
+## Process
+1. Data Cleaning (Python & Pandas)
+2. Feature Engineering (month, weekday)
+3. Exploratory Data Analysis
+4. Dashboard Creation (Power BI)
+5. Business Insights
 
 ## Dataset
 The dataset used in this project is the Brazilian E-Commerce Public Dataset, which contains information about orders, customers, products, and payments.
@@ -37,10 +50,28 @@ This chart shows revenue per month
 - Most purchases happen during weekdays, especially on Monday, Tuesday and Wednesday
 - The majority of orders are successfully delivered, indicating a reliable delivery process.
 
+## Business Impact
+- Supports decision-making for sales and marketing strategies
+- Identifies customer behavior patterns
+- Evaluates delivery performance and operational efficiency
+
 # PT-BR Analises de Dados E-Commerce Brasileiro 
 
 ## Visão Geral do Projeto
 Este Projeto analisa dados de e-commerce brasileiro utilizando Python
+
+## Principais perguntas de negócios
+- Como o e-commerce está crescendo ao longo do tempo?
+- Qual dia da semana os clientes compram mais?
+- Quão eficiente é o processo de entrega?
+- Qual é a tendência de receita?
+
+## Processos
+1. Limpeza de Dados (Python e Pandas)
+2. Engenharia de Recursos (mês, dia da semana)
+3. Análise Exploratória de Dados
+4. Criação de Dashboard (Power BI)
+5. Insights de Negócios
 
 ## Datasets
 O conjunto de dados utilizado neste projeto é Brazilian e-commerce public dataset, que contém informações sobre pedidos, clientes, produtos e pagamentos.
@@ -71,3 +102,8 @@ Este gráfico mostra a receita por mês
 - Os pedidos mostram um crescimento consistente.
 - A maioria das compras ocorre durante os dias úteis, principalmente na segunda, terça e quarta-feira.
 - A maioria dos pedidos foram entregues com sucesso, o que indica um processo de entrega confiável.
+
+## Impacto nos negócios
+- Apoia a tomada de decisões para estratégias de vendas e marketing.
+- Identifica padrões de comportamento do cliente.
+- Avalçia o desempenho de entrega e a eficiência operacional.
