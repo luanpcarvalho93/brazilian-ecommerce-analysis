@@ -2,7 +2,7 @@
 This project is available in English and Portuguese (PT-BR).
 
 ## Dashboard
-[View Power BI Dashboard]
+[View Power BI Dashboard] (https://drive.google.com/file/d/1-Kqdu2K0u0bYcV10CM0e09RXZyXptowS/view?usp=sharing)
 
 ## Project Overview
 This project analyzes Brazilian e-commerce data using Python.
