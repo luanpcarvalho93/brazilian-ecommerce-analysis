@@ -1,4 +1,8 @@
 # Brazilian E-Commerce Data Analysis
+This project is available in English and Portuguese (PT-BR).
+
+## Dashboard
+[View Power BI Dashboard]
 
 ## Project Overview
 This project analyzes Brazilian e-commerce data using Python.
