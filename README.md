@@ -8,8 +8,8 @@ This project is available in English and Portuguese (PT-BR).
 - How is e-commerce growing over time?
 - When do customers buy the most?
 - How efficient is the delivery process?
-- What is the revenue trend?
-- 
+- How does revenue evolve over time?
+
 ## Project Overview
 This project analyzes Brazilian e-commerce data using Python.
 
@@ -51,9 +51,10 @@ This chart shows revenue per month
 - The majority of orders are successfully delivered, indicating a reliable delivery process.
 
 ## Business Impact
-- Supports decision-making for sales and marketing strategies
-- Identifies customer behavior patterns
-- Evaluates delivery performance and operational efficiency
+- Helps understand sales growth trends
+- Identifies customer purchasing behavior
+- Evaluates delivery performance and efficiency
+- Supports data-driven decision making
 
 # PT-BR Analises de Dados E-Commerce Brasileiro 
 
@@ -64,7 +65,7 @@ Este Projeto analisa dados de e-commerce brasileiro utilizando Python
 - Como o e-commerce está crescendo ao longo do tempo?
 - Qual dia da semana os clientes compram mais?
 - Quão eficiente é o processo de entrega?
-- Qual é a tendência de receita?
+- Como a receita evolui ao longo do tempo?
 
 ## Processos
 1. Limpeza de Dados (Python e Pandas)
@@ -104,6 +105,7 @@ Este gráfico mostra a receita por mês
 - A maioria dos pedidos foram entregues com sucesso, o que indica um processo de entrega confiável.
 
 ## Impacto nos negócios
-- Apoia a tomada de decisões para estratégias de vendas e marketing.
-- Identifica padrões de comportamento do cliente.
-- Avalçia o desempenho de entrega e a eficiência operacional.
+- Ajuda a compreender as tendências de crescimento de vendas.
+- Identifica padrões de comportamento de compra do cliente.
+- Avalia o desempenho de entrega e a eficiência operacional.
+- Apoia a tomada de decisões baseada em dados.
